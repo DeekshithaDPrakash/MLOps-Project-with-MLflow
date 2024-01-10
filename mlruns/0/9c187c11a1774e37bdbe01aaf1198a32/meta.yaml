@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OneDrive%20-%20oasis.inje.ac.kr/1_ALL_PROJECTS/MLOps_Projects/MLOps-Project-with-MLflow/mlruns/0/9c187c11a1774e37bdbe01aaf1198a32/artifacts
+end_time: 1704854386435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c187c11a1774e37bdbe01aaf1198a32
+run_name: glamorous-rat-713
+run_uuid: 9c187c11a1774e37bdbe01aaf1198a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704854382197
+status: 3
+tags: []
+user_id: admin

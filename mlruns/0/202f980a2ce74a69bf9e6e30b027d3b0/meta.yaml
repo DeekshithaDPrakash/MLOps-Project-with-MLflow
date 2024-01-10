@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OneDrive%20-%20oasis.inje.ac.kr/1_ALL_PROJECTS/MLOps_Projects/MLOps-Project-with-MLflow/mlruns/0/202f980a2ce74a69bf9e6e30b027d3b0/artifacts
+end_time: 1704855162346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 202f980a2ce74a69bf9e6e30b027d3b0
+run_name: valuable-zebra-973
+run_uuid: 202f980a2ce74a69bf9e6e30b027d3b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704855158297
+status: 3
+tags: []
+user_id: admin
