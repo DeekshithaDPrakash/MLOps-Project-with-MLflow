@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OneDrive%20-%20oasis.inje.ac.kr/1_ALL_PROJECTS/MLOps_Projects/MLOps-Project-with-MLflow/mlruns/0/065e3ee640d4449ea988ba7d9e754a47/artifacts
+end_time: 1704810708505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 065e3ee640d4449ea988ba7d9e754a47
+run_name: serious-wolf-742
+run_uuid: 065e3ee640d4449ea988ba7d9e754a47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704810704253
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OneDrive%20-%20oasis.inje.ac.kr/1_ALL_PROJECTS/MLOps_Projects/MLOps-Project-with-MLflow/mlruns/0/66ddf9b34f124b0597c656e49517d760/artifacts
+end_time: 1704813284662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66ddf9b34f124b0597c656e49517d760
+run_name: indecisive-goose-340
+run_uuid: 66ddf9b34f124b0597c656e49517d760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704813280556
+status: 3
+tags: []
+user_id: admin

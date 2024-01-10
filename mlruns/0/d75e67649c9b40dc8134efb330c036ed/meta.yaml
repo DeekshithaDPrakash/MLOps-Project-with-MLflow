@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OneDrive%20-%20oasis.inje.ac.kr/1_ALL_PROJECTS/MLOps_Projects/MLOps-Project-with-MLflow/mlruns/0/d75e67649c9b40dc8134efb330c036ed/artifacts
+end_time: 1704813648667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d75e67649c9b40dc8134efb330c036ed
+run_name: illustrious-crane-6
+run_uuid: d75e67649c9b40dc8134efb330c036ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704813644295
+status: 3
+tags: []
+user_id: admin

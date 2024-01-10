@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OneDrive%20-%20oasis.inje.ac.kr/1_ALL_PROJECTS/MLOps_Projects/MLOps-Project-with-MLflow/mlruns/0/f09667263ac140c395a18e778725808a/artifacts
+end_time: 1704812509892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f09667263ac140c395a18e778725808a
+run_name: vaunted-gnat-21
+run_uuid: f09667263ac140c395a18e778725808a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704812505437
+status: 3
+tags: []
+user_id: admin

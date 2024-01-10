@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OneDrive%20-%20oasis.inje.ac.kr/1_ALL_PROJECTS/MLOps_Projects/MLOps-Project-with-MLflow/mlruns/0/b29704a518a24a56b1a361696e9f124a/artifacts
+end_time: 1704850292333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b29704a518a24a56b1a361696e9f124a
+run_name: judicious-sponge-660
+run_uuid: b29704a518a24a56b1a361696e9f124a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704850287135
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OneDrive%20-%20oasis.inje.ac.kr/1_ALL_PROJECTS/MLOps_Projects/MLOps-Project-with-MLflow/mlruns/0/5c9448c1ebc7477e8df48c75196c9f4a/artifacts
+end_time: 1704813245885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c9448c1ebc7477e8df48c75196c9f4a
+run_name: trusting-trout-716
+run_uuid: 5c9448c1ebc7477e8df48c75196c9f4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704813241521
+status: 3
+tags: []
+user_id: admin
