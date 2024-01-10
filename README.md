@@ -2,7 +2,7 @@
 MLops_Project_1
 
 
-# End-to-end-Machine-Learning-Project-with-MLflow
+# Wine Quality Prediction
 
 
 ## Workflows
